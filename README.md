@@ -34,13 +34,17 @@ Run this in sequence in the root folder of the project:
 ## Demo
 
 Home Page
-![alt text](images/game1.png "Before the game starts")
+![alt text](images/game1.PNG "Before the game starts")
+
+
 
 During the game 
-![alt text](images/game2.png "During the game")
+![alt text](images/game2.PNG "During the game")
+
+
 
 After game is over
-![alt text](images/game3.png "After game is over")
+![alt text](images/game3.PNG "After game is over")
 
 ## Next steps
 - Implement "Play again" feature. 
